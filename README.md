@@ -4,7 +4,10 @@ Hi 👋 My name is Rinto George
 Web Software Engineer
 ---------------------
 
-💡 I like to explore new trends and learn new technologies. 🐱 I'm on track to learning more about PHP, Laravel, Magento, React Js, and Next JS ✍🏼 I've recently started learning about web3. ❤️ Feel free to reach out to me for consulting, volunteering, or just for some interesting discussion.
+💡 I like to explore new trends and learn new technologies.
+🐱 I'm on track to learning more about PHP, Laravel, Magento, React Js, and Next JS
+✍🏼 I've recently started learning about web3.
+❤️ Feel free to reach out to me for consulting, volunteering, or just for some interesting discussion.
 
 * 🌍  I'm based in Dubai, UAE
 * ✉️  You can contact me at [mail.rinto@gmail.com](mailto:mail.rinto@gmail.com)
