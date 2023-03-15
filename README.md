@@ -1,7 +1,7 @@
 Hi 👋 My name is Rinto George
 =============================
 
-Web Software Engineer
+Software Engineer
 ---------------------
 
 💡 I like to explore new trends and learn new technologies.\
