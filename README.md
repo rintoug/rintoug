@@ -9,7 +9,7 @@ Software Engineer
 ✍🏼 I've recently started learning about web3.\
 ❤️ Feel free to reach out to me for consulting, volunteering, or just for some interesting discussion.\
 
-* 🌍  I'm based in Dubai, UAE
+* 🌍  Currently lives in Dubai, UAE
 * ✉️  You can contact me at [mail.rinto@gmail.com](mailto:mail.rinto@gmail.com)
 * 🧠  I'm learning Rust Programming Language
 
